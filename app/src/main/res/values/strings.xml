@@ -1,0 +1,13 @@
+<resources>
+    <string name="info_text">
+Please choose the number of digits of the number you want me to keep in mind.
+Note that guessing rights will vary based on the number of digits.
+</string>
+
+    <string name="one_digit">One Digit Numbers</string>
+    <string name="two_digits">Two Digit Numbers</string>
+    <string name="three_digits">Three Digit Numbers</string>
+    <string name="start">Start</string>
+    <string name="app_name">Number Guessing Game</string>
+
+</resources>
