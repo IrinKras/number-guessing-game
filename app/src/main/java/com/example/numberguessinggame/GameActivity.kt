@@ -41,7 +41,7 @@ class GameActivity : AppCompatActivity() {
         when(intent.getStringExtra("number").toString()){
 
             "one" -> {
-                gameBinding.textViewInfo.text = "Guess a number between 8-9"
+                gameBinding.textViewInfo.text = "Guess a number between 0-9"
                 randomNumber = Random.nextInt(0,10)
                 remainingRight = 3
             }
